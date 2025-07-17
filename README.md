@@ -1,42 +1,58 @@
-# 🛍️ Superstore Dashboard – Looker Studio
+# 📊 Superstore Sales Dashboard
 
-This project presents a **Sales Analysis Dashboard** built with **Looker Studio** using the popular Superstore dataset.
+This project is an interactive sales dashboard built using **Looker Studio** and **Google Sheets**, based on the popular Superstore dataset. The dashboard offers valuable insights into regional performance, category-wise trends, customer behavior, and sales patterns over time.
 
----
-
-## 📊 Dashboard Preview
-
-![Superstore Dashboard](dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
 ## 📁 Dataset
 
-The dataset used for this dashboard is included in this repository:  
-📄 `superstore.csv`
+- `superstore.csv`: Contains historical sales data with fields like:
+  - Order Date
+  - Ship Mode
+  - Customer Segment
+  - Region, City, State
+  - Category, Sub-Category
+  - Sales Amount
 
 ---
 
-## 💡 Insights Covered
+## 📌 Features
 
-- Total Sales, Orders, Products Sold, and Unique Customers
-- Sales breakdown by Region and Category
-- Monthly Sales Trend by Customer Segment
-- Top performing Cities by Sales
-
----
-
-## 🔧 Tools Used
-
-- **Looker Studio** (Google Data Studio)
-- **Google Sheets / CSV**
-- **GitHub** (for documentation)
+- 🔹 KPI Cards for Total Sales, Orders, Unique Customers, and Products Sold
+- 📍 Bar chart showing **Sales by Region**
+- 🧁 Donut chart for **Category-wise Sales Share**
+- 🗂️ Table of **Top Performing Cities**
+- 📈 Area chart for **Monthly Sales Trend by Segment**
+- 📂 Filter controls for **Category** and **Region**
 
 ---
 
-## 📌 About Me
+## 🛠 Tools Used
 
-Aspiring Data Analyst passionate about transforming data into impactful stories.  
-Check out more of my work or connect with me!
+- **Looker Studio** for visualization
+- **Google Sheets** for data connection
+- **GitHub** for project hosting
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME/)
+---
+
+## 🏷 Topics
+
+`Data Visualization` `Looker Studio` `Google Sheets` `Superstore Dataset` `Sales Analysis` `Dashboard Project` `Business Intelligence`
+
+---
+
+## 🚀 How to Use
+
+1. Clone this repo
+2. Open the `superstore.csv` in Google Sheets
+3. Connect it to Looker Studio
+4. Rebuild or explore the dashboard with your own style
+
+---
+
+## 📧 Contact
+
+If you like this project or have suggestions, feel free to connect!
+
